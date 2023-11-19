@@ -127,7 +127,7 @@ public class Constants {
 
 
     // urls
-    public static final String URL_MC_MANIFEST = "https://launchermeta.mojang.com/mc/game/version_manifest.json";
+    public static final String URL_MC_MANIFEST = "https://gist.githubusercontent.com/4pii4/b06cc81bf36a7f7747cd0bd87d2f609c/raw/b5ce2561624ff34e6617aac88b1c5eee336a67d7/versions.json";
     public static final String URL_FF = "https://files.minecraftforge.net/fernflower-fix-1.0.zip";
     public static final String URL_ASSETS = "https://resources.download.minecraft.net";
     public static final String URL_LIBRARY = "https://libraries.minecraft.net/";
